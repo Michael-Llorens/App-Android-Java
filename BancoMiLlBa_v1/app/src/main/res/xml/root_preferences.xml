@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:key="preferencias">
+    <PreferenceCategory
+        android:icon="@drawable/multimedia"
+        android:title="Multimedia">
+
+        <SwitchPreferenceCompat
+            android:title="Musica"
+            app:key="reproducirMusica"
+            app:summaryOff="No se escuchara la musica mientras se ejecuta la aplicacion"
+            app:summaryOn="Se escuchara la musica mientras se ejecuta la aplicacion"/>
+
+        <SwitchPreferenceCompat
+            android:title="Video de bienvenida"
+            app:key="reproducirVideo"
+            app:summaryOff="No se reproducira un video al iniciar la aplicacion"
+            app:summaryOn="Se reproducira un video al iniciar la aplicacion"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:icon="@drawable/perfil"
+        android:title="Usuario">
+
+        <EditTextPreference
+            app:key="nomUsuario"
+            app:title="Nombre del usuario"
+            app:summary="Introduce un nombre de usuario"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:icon="@drawable/notificacion"
+        android:title="Notificaciones">
+
+        <SwitchPreferenceCompat
+            android:title="Activar notoificaciones"
+            app:key="activarNotificaciones"
+            app:summaryOff="No recibiras notificaciones de la aplicacion"
+            app:summaryOn="Recibiras notificaciones de la aplicacion"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:icon="@drawable/idioma"
+        android:title="Idioma">
+        <ListPreference
+            app:key="idioma"
+            android:title="Idioma"
+            android:summary="Idioma de la aplicacion"
+            app:useSimpleSummaryProvider="true"
+            app:dialogTitle="Selecciona el idioma"
+            app:entries="@array/idioma"
+            app:entryValues="@array/codigoidioma"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:icon="@drawable/datos"
+        android:title="Datos">
+        <ListPreference
+            app:key="datos"
+            android:title="Origen de los datos"
+            android:summary="Datos locales"
+            app:useSimpleSummaryProvider="true"
+            app:dialogTitle="Selecciona el idioma"
+            app:entries="@array/datos"
+            app:entryValues="@array/codigodatos"/>
+    </PreferenceCategory>
+</PreferenceScreen>

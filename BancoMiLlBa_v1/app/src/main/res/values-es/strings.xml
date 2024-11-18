@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Banco-MiLlBa</string>
+    <string name="bienvenida">Bienvenido a tu banco</string>
+    <string name="entrar">Entrar</string>
+    <string name="iniciar">Iniciar sesion</string>
+    <string name="salir">Salir</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="movimientos">Movimientos</string>
+    <string name="transferencias">Transferencias</string>
+    <string name="cambiarContraseña">Cambiar contraseña</string>
+    <string name="promociones">Promociones</string>
+    <string name="cajeros">Cajeros</string>
+    <string name="posicionGlobal">Posición global</string>
+    <string name="bienvenidaCliente">Bienvenido/a,</string>
+    <string name="guardar">Guardar</string>
+    <string name="contraseñaActual">Contraseña actual</string>
+    <string name="contraseñaNueva">ContraseñaNueva</string>
+    <string name="repetirContraseña">Repetir contraseña</string>
+    <string name="txtTransferencia">Transferencia</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="selectCuetna">Elige tu cuenta:</string>
+    <string name="cuentaPropia">Cuenta propia</string>
+    <string name="cuentaAjena">Cuenta ajena</string>
+    <string name="enviarJustificante">Enviar justificante</string>
+    <string name="cantidad">Cantidad:</string>
+    <string name="numCuentaajena">Escribe el numero de la cuenta</string>
+    <string name="cuentas">Cuentas:</string>
+    <string name="ultmovimientos">Últimos movimientos:</string>
+    <string name="configuracion">Configuración</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="boton_cancelar">Cancelar</string>
+</resources>

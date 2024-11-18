@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/todos"
+        android:title="Todos"
+        android:icon="@drawable/menu0"
+        />
+
+    <item
+        android:id="@+id/tipo_1"
+        android:title="Tipo 1"
+        android:icon="@drawable/menu1"
+        />
+
+    <item
+        android:id="@+id/tipo_2"
+        android:title="Tipo 2"
+        android:icon="@drawable/menu2"
+        />
+
+    <item
+        android:id="@+id/tipo_3"
+        android:title="Tipo 3"
+        android:icon="@drawable/menu3"
+        />
+</menu>

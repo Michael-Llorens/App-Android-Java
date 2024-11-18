@@ -1,0 +1,63 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <string-array name="reproducir_musica">
+        <item>No reproducir</item>
+        <item>Reproducir musica</item>
+    </string-array>
+
+    <string-array name="reproducir_musica_value">
+        <item>NoRepMus</item>
+        <item>RepMus</item>
+    </string-array>
+
+    <string-array name="reproducir_video">
+        <item>No reproducir video</item>
+        <item>Reproducir video</item>
+    </string-array>
+
+    <string-array name="reproducir_video_value">
+        <item>NoRepVid</item>
+        <item>RepVid</item>
+    </string-array>
+
+    <string-array name="recibir_notificaciones">
+        <item>No recibir notificaciones</item>
+        <item>Recibir notificaciones</item>
+    </string-array>
+
+    <string-array name="reproducir_notificaciones_value">
+        <item>NoRecNot</item>
+        <item>RecNot</item>
+    </string-array>
+
+    <string-array name="idioma">
+        <item>Español</item>
+        <item>Ingles</item>
+    </string-array>
+
+    <string-array name="codigoidioma">
+        <item>Es</item>
+        <item>In</item>
+    </string-array>
+
+    <string-array name="datos">
+        <item>Base de datos local</item>
+        <item>Servicio web</item>
+    </string-array>
+
+    <string-array name="codigodatos">
+        <item>Bdlocal</item>
+        <item>Servweb</item>
+    </string-array>
+
+</resources>

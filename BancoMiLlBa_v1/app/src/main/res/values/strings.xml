@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BancoMiLlBa_v1</string>
+    <string name="bienvenida">Welcome to your bank</string>
+    <string name="entrar">Enter</string>
+    <string name="iniciar">Login</string>
+    <string name="salir">Exit</string>
+    <string name="contraseña">Password</string>
+    <string name="usuario">User</string>
+    <string name="movimientos">Movements</string>
+    <string name="transferencias">Transfers</string>
+    <string name="cambiarContraseña">Change Password</string>
+    <string name="promociones">Promotions</string>
+    <string name="cajeros">ATM</string>
+    <string name="posicionGlobal">Overall position</string>
+    <string name="bienvenidaCliente">Welcome,</string>
+    <string name="guardar">Save</string>
+    <string name="contraseñaActual">Current password</string>
+    <string name="contraseñaNueva">New password</string>
+    <string name="repetirContraseña">Repeat password</string>
+    <string name="txtTransferencia">Transfer</string>
+    <string name="btnEnviar">Send</string>
+    <string name="btnCancelar">Cancel</string>
+    <string name="selectCuetna">Choose your account:</string>
+    <string name="cuentaPropia">Own account</string>
+    <string name="cuentaAjena">Employed</string>
+    <string name="enviarJustificante">Send proof</string>
+    <string name="cantidad">Emount:</string>
+    <string name="numCuentaajena">Write the account number</string>
+    <string name="cuentas">Accounts:</string>
+    <string name="ultmovimientos">Last movements:</string>
+    <string name="configuracion">Settings</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="boton_cancelar">Cancelar</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
