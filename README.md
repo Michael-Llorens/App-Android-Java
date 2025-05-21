@@ -3,7 +3,7 @@
 Aplicación Android que simula una sucursal bancaria digital.  
 Permite a los usuarios iniciar sesión, consultar su saldo, realizar transferencias y gestionar movimientos, todo desde una interfaz intuitiva y moderna.
 
-![Banking App Screenshot](./img/bankingapp.png) <!-- Cambia esta ruta por una imagen real si la tienes -->
+![Banking App Screenshot](./img/banco.png) <!-- Cambia esta ruta por una imagen real si la tienes -->
 
 ---
 
